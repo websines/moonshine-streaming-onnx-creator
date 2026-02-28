@@ -1,0 +1,12 @@
+.claude/
+.codegraph/
+.venv/
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite
+*.log           
+
+moonshine_streaming_small/
