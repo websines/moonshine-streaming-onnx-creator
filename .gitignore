@@ -10,3 +10,4 @@ __pycache__
 *.log           
 
 moonshine_streaming_small/
+moonshine_streaming_medium/
